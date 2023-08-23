@@ -1,0 +1,15 @@
+.main_content{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.main_catalog{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: brown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

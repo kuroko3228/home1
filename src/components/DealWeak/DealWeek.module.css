@@ -1,0 +1,96 @@
+.background_box{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+
+    width: 1275px;
+    height: 594px;
+    border-top-left-radius: 377px;
+    border-bottom-left-radius: 377px;
+    background: rgba(246, 246, 246, 1);
+}
+.inner_white_box{
+    margin-left: 40px;
+
+    width: 523px;
+    height: 523px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 34px 4px rgba(86, 86, 86, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner_content_box{
+    width: 520px;
+    margin-left: 80px;
+}
+.inner_content_box p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(114, 114, 114, 1);
+
+    margin-bottom: 30px;
+}
+.first_button{
+    width: 204px;
+    height: 38px;
+    background: rgba(128, 150, 188, 1);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -0.035em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+
+    margin-bottom: 30px;
+}
+.price_of_week{
+    font-family: 'Federo', sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: rgba(58, 58, 58, 1);
+
+    margin-bottom: 30px;
+}
+.price{
+    color: rgba(120, 162, 202, 1);
+}
+.second_button{
+    width: 122px;
+    height: 38px;
+    background: rgba(67, 67, 67, 1);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -0.035em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+
+    margin-bottom: 30px;
+}
+.list_items{
+    width: 436px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item{
+    width: 87px;
+    height: 87px;
+    border: 0.1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

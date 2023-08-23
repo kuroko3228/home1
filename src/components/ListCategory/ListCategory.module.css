@@ -1,0 +1,22 @@
+.category_catalog{
+    width: 160px;
+    height: 148px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.category_catalog:hover{
+    background-color: rgba(251, 249, 243, 1); 
+}
+.category_catalog p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: -0.035em;
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(80, 80, 80, 1);
+}

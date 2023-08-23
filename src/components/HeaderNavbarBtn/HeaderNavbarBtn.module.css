@@ -1,0 +1,10 @@
+.button_style{
+    background-color: white;
+    height: 100%;
+    padding-right: 20px;
+    cursor: pointer;
+}
+.button_style svg{
+    width: 100%;
+    height: 100%;
+}

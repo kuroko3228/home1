@@ -1,0 +1,48 @@
+.background{
+    background-image: url(/public/img/27.svg);
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 65px;
+    letter-spacing: -0.035em;
+    color: rgba(66, 67, 70, 1);
+}
+
+h2{
+    font-family: serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 54px;
+    letter-spacing: -0.035em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.links li{
+    margin-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: -0.035em;
+    text-align: left;
+    color: rgba(138, 138, 138, 1);
+}
+.follow_us li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: -0.035em;
+    color: rgba(138, 138, 138, 1);
+    display: flex;
+    align-items: center;
+}
+.follow_us img{
+    margin-right: 10px;
+}
